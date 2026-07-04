@@ -6,7 +6,7 @@ A Python-based biomedical signal processing and machine learning project for det
 
 ## 📸 Model Results
 
-![Model Results](image.png)
+![Model Results](model-results.png)
 
 ---
 
