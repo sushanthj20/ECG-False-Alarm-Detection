@@ -1,0 +1,29 @@
+Loading Files
+Files Loaded
+Total patients = 750
+Feature Extraction Started.
+
+Feature Extraction Completed
+
+Dataset Shape = (750, 11)
+Labels Shape = (750,)
+
+Training samples = 562
+Testing samples = 188
+
+Training model...
+Model training completed
+
+Model Accuracy = 70.2127659574468 %
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+           0       0.72      0.81      0.77       113
+           1       0.66      0.53      0.59        75
+
+    accuracy                           0.70       188
+   macro avg       0.69      0.67      0.68       188
+weighted avg       0.70      0.70      0.70       188
+
